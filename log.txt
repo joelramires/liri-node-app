@@ -1,0 +1,530 @@
+**********MOVIE INFO*********
+Title: Us
+Release Year: 2019
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: 94%
+Country of Production: USA, Japan
+Language: English
+Plot: A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.
+Actors: Lupita Nyong'o, Winston Duke, Elisabeth Moss, Tim Heidecker
+*****************************
+**********SONG INFO*********
+0
+song name: i
+preview song: https://p.scdn.co/mp3-preview/a393c84f01ff692b048e5f06479b3f827dd7f5c0?cid=47b92eb62b6e4debabf36c3c36047210
+album: Shelby
+artist(s): Lil Skies
+*****************************
+**********SONG INFO*********
+1
+song name: Murder On My Mind
+preview song: https://p.scdn.co/mp3-preview/b681a45cf2f796326f42bed43a6e419cd88ef92c?cid=47b92eb62b6e4debabf36c3c36047210
+album: I AM YOU
+artist(s): YNW Melly
+*****************************
+**********SONG INFO*********
+2
+song name: a lot
+preview song: https://p.scdn.co/mp3-preview/0ff1fadf009e81e7d80912c2372c7381a49e5863?cid=47b92eb62b6e4debabf36c3c36047210
+album: i am > i was
+artist(s): 21 Savage
+*****************************
+**********SONG INFO*********
+3
+song name: I Was
+preview song: https://p.scdn.co/mp3-preview/80fe63341ea2888fd7851df4fabe735548965ba9?cid=47b92eb62b6e4debabf36c3c36047210
+album: III Smoking Barrels (Original Motion Picture Soundtrack)
+artist(s): Isheeta Chakrvarthy
+*****************************
+**********SONG INFO*********
+4
+song name: i love you
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+5
+song name: I Think I Am In Love
+preview song: https://p.scdn.co/mp3-preview/01bc6a677dad76c1f543c6cf79138249467c60b0?cid=47b92eb62b6e4debabf36c3c36047210
+album: Paper Boy (Original Motion Picture Soundtrack)
+artist(s): Shreya Ghoshal
+*****************************
+**********SONG INFO*********
+6
+song name: listen before i go
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+7
+song name: I Viralgal
+preview song: https://p.scdn.co/mp3-preview/850afc65068e029a060448e19dbd76a949ba8f9a?cid=47b92eb62b6e4debabf36c3c36047210
+album: Kanithan (Original Motion Picture Soundtrack)
+artist(s): M.C. A.K.
+*****************************
+**********SONG INFO*********
+8
+song name: I Fall Apart
+preview song: null
+album: Stoney (Deluxe)
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+9
+song name: I Am Villain
+preview song: https://p.scdn.co/mp3-preview/a2cdca2069f22ed237fa1decf8e5432e3cb4bb31?cid=47b92eb62b6e4debabf36c3c36047210
+album: The Villain (Original Motion Picture Soundtrack)
+artist(s): Shankar Mahadevan
+*****************************
+**********SONG INFO*********
+10
+song name: I Love You
+preview song: https://p.scdn.co/mp3-preview/4a176c4970838afc5e8079525e52a281c8379d4a?cid=47b92eb62b6e4debabf36c3c36047210
+album: I Love You
+artist(s): Rajiv Ranjan
+*****************************
+**********SONG INFO*********
+11
+song name: I Love You Bolke
+preview song: https://p.scdn.co/mp3-preview/806df41bdc204fc3c94aa7b2e807c463c3167b0a?cid=47b92eb62b6e4debabf36c3c36047210
+album: I Love You Bolke
+artist(s): Tripti Shakya
+*****************************
+**********SONG INFO*********
+12
+song name: I Am Chhattisgarhiya
+preview song: https://p.scdn.co/mp3-preview/bdd9d8dfd203e49defc7e7d52128ba7cd3862f7b?cid=47b92eb62b6e4debabf36c3c36047210
+album: 36garh Ke Handsome (Original Motion Pictures Soundtrack)
+artist(s): Sunil Soni
+*****************************
+**********SONG INFO*********
+13
+song name: You & I
+preview song: https://p.scdn.co/mp3-preview/83e3372c9f643044cb1b4ae2fe7a4f948f642bd4?cid=47b92eb62b6e4debabf36c3c36047210
+album: Lamboo Rastoo
+artist(s): Shalabh Bhatnagar
+*****************************
+**********SONG INFO*********
+14
+song name: I Love You
+preview song: https://p.scdn.co/mp3-preview/38640c8f4a3caa5f5f66fd03ae8a8104221ba5f8?cid=47b92eb62b6e4debabf36c3c36047210
+album: I Love You
+artist(s): Koushik Pandey
+*****************************
+**********SONG INFO*********
+15
+song name: I Phone Dilwa De
+preview song: https://p.scdn.co/mp3-preview/33e8349bb636b46e832397eb7f969371ddc998c5?cid=47b92eb62b6e4debabf36c3c36047210
+album: Chal Jaa Bapu
+artist(s): Ritu Pathak
+*****************************
+**********SONG INFO*********
+16
+song name: I Am Broken (Trance)
+preview song: https://p.scdn.co/mp3-preview/94d76f9333098a4df684780a0d1bce1cd88d9e53?cid=47b92eb62b6e4debabf36c3c36047210
+album: Ishq Tera
+artist(s): Sunidhi Chauhan
+*****************************
+**********SONG INFO*********
+17
+song name: Baby I Love You
+preview song: https://p.scdn.co/mp3-preview/7c6301cdf77b678e46a1e52227fdd15147f1a3e7?cid=47b92eb62b6e4debabf36c3c36047210
+album: Baby I Love You
+artist(s): Swarup Kakati
+*****************************
+**********SONG INFO*********
+18
+song name: I Am Broken
+preview song: https://p.scdn.co/mp3-preview/8a3b06bf66afcb12515955fcd865f1ad62305c67?cid=47b92eb62b6e4debabf36c3c36047210
+album: Ishq Tera
+artist(s): Sunidhi Chauhan
+*****************************
+**********SONG INFO*********
+19
+song name: Baby I Love You - From "Baby I Love You"
+preview song: https://p.scdn.co/mp3-preview/940713f69e17e57fd8e4f939b1fd4be94abdc945?cid=47b92eb62b6e4debabf36c3c36047210
+album: Baby I Love You (From "Baby I Love You")
+artist(s): Devalla Kiran
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=47b92eb62b6e4debabf36c3c36047210
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=47b92eb62b6e4debabf36c3c36047210
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=47b92eb62b6e4debabf36c3c36047210
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=47b92eb62b6e4debabf36c3c36047210
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=47b92eb62b6e4debabf36c3c36047210
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=47b92eb62b6e4debabf36c3c36047210
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+8
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=47b92eb62b6e4debabf36c3c36047210
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=47b92eb62b6e4debabf36c3c36047210
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=47b92eb62b6e4debabf36c3c36047210
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=47b92eb62b6e4debabf36c3c36047210
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=47b92eb62b6e4debabf36c3c36047210
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=47b92eb62b6e4debabf36c3c36047210
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=47b92eb62b6e4debabf36c3c36047210
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=47b92eb62b6e4debabf36c3c36047210
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=47b92eb62b6e4debabf36c3c36047210
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=47b92eb62b6e4debabf36c3c36047210
+album: I Want It That Way
+artist(s): Landon Austin & Julia Sheer
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=47b92eb62b6e4debabf36c3c36047210
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+*****************************
+=======EVENT INFO======
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+=================================
+=======EVENT INFO======
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+=================================
+=======EVENT INFO======
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+=================================
+=======EVENT INFO======
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+=================================
+=======EVENT INFO======
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+=================================
+=======EVENT INFO=======
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+=================================
+=======EVENT INFO=======
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+=================================
+=======EVENT INFO=======
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+=================================
+=======EVENT INFO=======
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+=================================
+=======EVENT INFO=======
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+=================================
+=======EVENT INFO=======
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+=================================
+=======EVENT INFO=======
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+=================================
+=======EVENT INFO=======
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+=================================
+=======EVENT INFO=======
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+=================================
+=======EVENT INFO=======
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+=================================
+=======EVENT INFO========
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+=================================
+=======EVENT INFO========
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+=================================
+=======EVENT INFO========
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+=================================
+=======EVENT INFO========
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+=================================
+=======EVENT INFO========
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+=================================
+=======EVENT INFO========
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+=================================
+=======EVENT INFO========
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+=================================
+=======EVENT INFO========
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+=================================
+=======EVENT INFO========
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+=================================
+=======EVENT INFO========
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+=================================
