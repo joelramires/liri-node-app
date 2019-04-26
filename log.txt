@@ -528,3 +528,315 @@ Name of the Venue: City of Rock
 Venue Location: Rio De Janeiro
 Date of the Event: 2019-09-27T19:00:00
 =================================
+=======EVENT INFO========
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+=================================
+=======EVENT INFO========
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+=================================
+=======EVENT INFO========
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+=================================
+=======EVENT INFO========
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+=================================
+=======EVENT INFO========
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+=================================
+=======EVENT INFO========
+0
+========SONG INFO=========
+0
+song name: Pure Water (with Migos)
+preview song: null
+album: Pure Water (with Migos)
+artist(s): Mustard
+=================================
+========SONG INFO=========
+1
+song name: Pure Cocaine
+preview song: null
+album: Street Gossip
+artist(s): Lil Baby
+=================================
+========SONG INFO=========
+2
+song name: Royals
+preview song: null
+album: Pure Heroine
+artist(s): Lorde
+=================================
+========SONG INFO=========
+3
+song name: Team
+preview song: null
+album: Pure Heroine
+artist(s): Lorde
+=================================
+========SONG INFO=========
+4
+song name: Pure Water (with Migos)
+preview song: null
+album: Pure Water (with Migos)
+artist(s): Mustard
+=================================
+========SONG INFO=========
+5
+song name: Tennis Court
+preview song: null
+album: Pure Heroine
+artist(s): Lorde
+=================================
+========SONG INFO=========
+6
+song name: Ribs
+preview song: null
+album: Pure Heroine
+artist(s): Lorde
+=================================
+========SONG INFO=========
+7
+song name: Pure Brown Noise
+preview song: https://p.scdn.co/mp3-preview/a649b8c7527163b93d202412edb1d7057d639083?cid=47b92eb62b6e4debabf36c3c36047210
+album: Brown Noise Therapy Sessions (Loopable Ambience)
+artist(s): White Noise Therapy
+=================================
+========SONG INFO=========
+8
+song name: Pure Brown Noise - Loopable with no fade
+preview song: https://p.scdn.co/mp3-preview/5efa21b0b64105120fa5259412f83afdddca3c3f?cid=47b92eb62b6e4debabf36c3c36047210
+album: Best White Noise for Baby Sleep - Loopable with No Fade
+artist(s): Erik Eriksson
+=================================
+========SONG INFO=========
+9
+song name: Buzzcut Season
+preview song: null
+album: Pure Heroine
+artist(s): Lorde
+=================================
+========SONG INFO=========
+10
+song name: Pure Grinding
+preview song: null
+album: Stories
+artist(s): Avicii
+=================================
+========SONG INFO=========
+11
+song name: The Love Club
+preview song: null
+album: Pure Heroine (Extended)
+artist(s): Lorde
+=================================
+========SONG INFO=========
+12
+song name: I Cross My Heart - Pure Country Soundtrack Version
+preview song: null
+album: Pure Country
+artist(s): George Strait
+=================================
+========SONG INFO=========
+13
+song name: Glory And Gore
+preview song: null
+album: Pure Heroine
+artist(s): Lorde
+=================================
+========SONG INFO=========
+14
+song name: Heartland - Pure Country/Soundtrack Version
+preview song: null
+album: Pure Country
+artist(s): George Strait
+=================================
+========SONG INFO=========
+15
+song name: 400 Lux
+preview song: null
+album: Pure Heroine
+artist(s): Lorde
+=================================
+========SONG INFO=========
+16
+song name: Pure Imagination
+preview song: https://p.scdn.co/mp3-preview/d048d832e225197f8181635d5601ba5522526e7c?cid=47b92eb62b6e4debabf36c3c36047210
+album: Our Remedy
+artist(s): Unclenathannn
+=================================
+========SONG INFO=========
+17
+song name: Pure Brown Noise - Loopable with no fade
+preview song: https://p.scdn.co/mp3-preview/a649b8c7527163b93d202412edb1d7057d639083?cid=47b92eb62b6e4debabf36c3c36047210
+album: Soothing Brown Noise, Brown Waves and other Ambeint Sounds for Rest and Ambiance (Loopable and without Fade)
+artist(s): Deep Sleep
+=================================
+========SONG INFO=========
+18
+song name: Pure Brown Noise
+preview song: https://p.scdn.co/mp3-preview/a649b8c7527163b93d202412edb1d7057d639083?cid=47b92eb62b6e4debabf36c3c36047210
+album: Brown Noise Dreams (Pure Brown Noise and Ambient Combinations, including Clothes Dryers, Waterfalls, Crickets)
+artist(s): Deep Sleep Brown Noise
+=================================
+========SONG INFO=========
+19
+song name: Amie
+preview song: https://p.scdn.co/mp3-preview/c1237f142430f97e69da92df5c7d8b3cd91dc185?cid=47b92eb62b6e4debabf36c3c36047210
+album: Greatest Hits
+artist(s): Pure Prairie League
+=================================
+========SONG INFO=========
+0
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/4eb779428d40d579f14d12a9daf98fc66c7d0be4?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+1
+song name: Beat It - Single Version
+preview song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+2
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/9f288fba4d3380b1ae25e7f88a2054d7fac0bf2d?cid=47b92eb62b6e4debabf36c3c36047210
+album: Scream
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+3
+song name: P.Y.T. (Pretty Young Thing)
+preview song: https://p.scdn.co/mp3-preview/575230ca230ab7a79f1b2980e303d7f1612073f3?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+4
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/dd0621b7f11364a37c96031dbedbca6b88dbfa7d?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+5
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/0b62db54da539b34856448e509c30ce4601931f5?cid=47b92eb62b6e4debabf36c3c36047210
+album: Michael Jackson's This Is It
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+6
+song name: P.Y.T. (Pretty Young Thing)
+preview song: https://p.scdn.co/mp3-preview/4b919442d00292086ab30277534cb6f64564c160?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+7
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/e87c95de42eecbed85b08021e3125833ed31ae98?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+8
+song name: Thriller
+preview song: null
+album: Infinity On High
+artist(s): Fall Out Boy
+=================================
+========SONG INFO=========
+9
+song name: Human Nature
+preview song: https://p.scdn.co/mp3-preview/a02a6ddf6152b09f9b9dd456a2edf484b0377f7c?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+10
+song name: Thriller - 2003 Edit
+preview song: https://p.scdn.co/mp3-preview/ff3fdb30e2997ac3959016392e0f9418dee79780?cid=47b92eb62b6e4debabf36c3c36047210
+album: Number Ones
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+11
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/fdfa0fe346a16b6aeb8136e6d2b7e11cacc6a06d?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+12
+song name: Wanna Be Startin' Somethin'
+preview song: https://p.scdn.co/mp3-preview/d18b4563e3d177024867161d7be84baa844ecfc9?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+13
+song name: Human Nature
+preview song: https://p.scdn.co/mp3-preview/d13c6034c6c9eddab4ef188a2da87201b71767aa?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+14
+song name: Beat It - Single Version
+preview song: https://p.scdn.co/mp3-preview/1c1b574766d6cacb669cd3e9b9309b9f5ed2b6e3?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+15
+song name: Thriller - Single Version
+preview song: https://p.scdn.co/mp3-preview/41d3639dcb9fa25f07fb849730718a62538c6237?cid=47b92eb62b6e4debabf36c3c36047210
+album: The Essential Michael Jackson
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+16
+song name: Baby Be Mine
+preview song: https://p.scdn.co/mp3-preview/8111b373a3a9cd14542865eb63d2396bca8ff72f?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+17
+song name: The Lady in My Life
+preview song: https://p.scdn.co/mp3-preview/6d1d47e76fef766db4b73955d4b20f4d9124e8f6?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+18
+song name: Wanna Be Startin' Somethin'
+preview song: https://p.scdn.co/mp3-preview/32f62861fdc3066ecb5545c56a330d8d6e9a09b2?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller
+artist(s): Michael Jackson
+=================================
+========SONG INFO=========
+19
+song name: Thriller (Forever) [feat. Ski Mask The Slump God]
+preview song: https://p.scdn.co/mp3-preview/0dd51131a5e7f3aabcdd76205c18bdca06472c66?cid=47b92eb62b6e4debabf36c3c36047210
+album: Thriller (Forever) [feat. Ski Mask The Slump God]
+artist(s): Ronny J
+=================================
