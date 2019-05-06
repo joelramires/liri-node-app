@@ -139,7 +139,7 @@ function movieInfo(command){
 
 });}
 
-//function to get rotten tomatoes rating 
+//function to get proper Rotten Tomatoes Rating
 function getRottenTomatoesRatingObject (data) {
   return data.Ratings.find(function (item) {
      return item.Source === "Rotten Tomatoes";
@@ -149,6 +149,7 @@ function getRottenTomatoesRatingObject (data) {
 function getRottenTomatoesRatingValue (data) {
   return getRottenTomatoesRatingObject(data).Value;
 }
+
 
 //LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 function txtInfo(){
